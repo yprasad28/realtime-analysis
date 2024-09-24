@@ -1,0 +1,53 @@
+.app {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #b1dd39;
+}
+h1{
+  text-align: center;
+  margin-top: 5px;
+}
+textarea {
+  width: 100%;
+  height: 200px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+}
+
+.statistics {
+  margin-top: 20px;
+}
+
+.replacement {
+  margin-top: 20px;
+}
+
+.replacement input {
+  width: 40%;
+  height: 30px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+}
+
+.replacement button {
+  width: 20%;
+  height: 30px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.replacement button:hover {
+  background-color: #e86625;
+}
+
